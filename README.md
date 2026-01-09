@@ -1,5 +1,5 @@
 # Guess_The_Number_Game_Using_Python
-A simple python console based number guessing game in this game the 
+A simple python console based number guessing game in this game 
 FEATURES:
 1) Generates a random number between 1 and 100
 2) Ask the player for their name
